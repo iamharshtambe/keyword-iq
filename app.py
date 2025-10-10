@@ -552,7 +552,7 @@ BIGRAM KEYWORDS:
     - **POS Keywords**: Extracts keywords based on grammatical role
     - **Readability Metrics**: Analyzes text complexity and reading difficulty
     
-    **KeywordIQ v2.0 - Created by: Rushikesh, Harsh, Om** | **NLP Mini Project**
+    **KeywordIQ v2.0 - Created by: Harsh** | **NLP Mini Project**
     """)
 
 if __name__ == "__main__":
